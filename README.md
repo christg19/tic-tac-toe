@@ -2,11 +2,10 @@
 
 Simple two‑player Tic Tac Toe game in the console written in C++ by me
 
-## How to Compile & Run
+## How to Compile
 
 ```bash
-g++ -std=c++11 -o tic_tac_toe main.cpp
-./tic_tac_toe
+g++ main.cpp -o main.exe
 ```
 
 
